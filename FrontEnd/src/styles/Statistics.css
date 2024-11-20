@@ -1,0 +1,17 @@
+.statistics {
+    padding: 2%;
+}
+
+.stat-box {
+    background-color: #3e7f91;
+    padding: 2%;
+    color: #fff;
+}
+
+.stat-item {
+    margin-bottom: 10px;
+}
+
+.stat-title {
+    font-size: 18px;
+}

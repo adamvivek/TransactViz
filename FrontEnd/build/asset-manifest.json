@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adamvivek/transactviz/static/css/main.4fe494d1.css",
+    "main.js": "/adamvivek/transactviz/static/js/main.e94600d5.js",
+    "static/js/453.8ab44547.chunk.js": "/adamvivek/transactviz/static/js/453.8ab44547.chunk.js",
+    "index.html": "/adamvivek/transactviz/index.html",
+    "main.4fe494d1.css.map": "/adamvivek/transactviz/static/css/main.4fe494d1.css.map",
+    "main.e94600d5.js.map": "/adamvivek/transactviz/static/js/main.e94600d5.js.map",
+    "453.8ab44547.chunk.js.map": "/adamvivek/transactviz/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe494d1.css",
+    "static/js/main.e94600d5.js"
+  ]
+}

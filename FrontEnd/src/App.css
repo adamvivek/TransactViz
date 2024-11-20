@@ -1,0 +1,19 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background-color: #3e7f91; 
+  color: white; 
+  text-align: center;
+}
+
+.app-body {
+  display: flex;
+}
+
+.main-content {
+  flex: 1; 
+  padding: 2%; 
+}
